@@ -82,4 +82,4 @@ async def server(ctx):
     await ctx.send(embed=guildEmbed)
 
 
-client.run('Nzk0NTU1ODgwNDE0NzczMjQ4.X-8h1A.Qwi-3mbJESd_moG7MYganwO66OE')
+client.run('Nzk0NTU1ODgwNDE0NzczMjQ4.X-8h1A.Qwi-3mbJESd_moG7MYganwO66OE') #THIS IS AN OLD OAUTH TOKEN THAT HAS BEEN REPLACED
