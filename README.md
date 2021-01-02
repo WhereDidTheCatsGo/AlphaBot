@@ -1,0 +1,2 @@
+# AlphaBot
+A Discord bot
