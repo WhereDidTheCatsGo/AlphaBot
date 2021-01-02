@@ -55,4 +55,4 @@ async def on_message(message):
         await message.channel.send({round(client.latency * 1000)})
 
 
-client.run('Nzk0NTU1ODgwNDE0NzczMjQ4.X-8h1A.PjJs54z1c9VKpjylzSnEKjEkka4')
+client.run('Nzk0NTU1ODgwNDE0NzczMjQ4.X-8h1A.PjJs54z1c9VKpjylzSnEKjEkka4') #THIS IS AN OLD OAUTH TOKEN WHICH HAS BEEN REPLACED
