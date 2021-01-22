@@ -15,7 +15,7 @@ noTextChannel = 'memes'
 # ----------------------------------------------------#
 
 # COMMAND DATABASE
-about2 = 'This is a bot written by @Where did the cat go?#2609, specifically for testing purposes. New features will be added as soon as possible. A list of existing available commands can be found by typing //cmdhelp'
+about2 = 'This is a bot written by @Where did the cats go?#2609, specifically for testing purposes. New features will be added as soon as possible. A list of existing available commands can be found by typing //cmdhelp'
 botOp = 'Where did the cats go?#2609'
 info2: str = '__List of commands__:\n***//about*** - Information about the bot\n***//cmdhelp*** - List of commands\n***//nuke*** - Clears the channel history\n***//random*** - Random number between 1 and 10\n***//server*** - Server information\n\nIf you are having any problems DM me @Where did the cat go?#2690'
 random2 = random.randint(1, 10)
